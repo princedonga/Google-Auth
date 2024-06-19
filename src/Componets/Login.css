@@ -1,0 +1,44 @@
+.btn1{
+    padding: 10px 10px;
+    border: none;
+    border-radius: 30px;
+    width: 100%;
+    background-color:transparent;
+    color: #fff;
+    border: 1px solid #fff;
+}
+.set{
+    width: 35% !important;
+
+}
+.div-set{
+    backdrop-filter: blur(30px);
+    padding: 50px 50px;
+    box-shadow: 2px 2px 11px #fff;
+    border-radius: 20px;
+}
+.bg1{
+    /* background-image: url('https://i.stack.imgur.com/fhEwl.png') ;
+   background-size: cover;
+    height: 100vh;
+    background-repeat: no-repeat; */
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(121,9,45,1) 100%, rgba(6,84,170,1) 100%, rgba(7,65,158,1) 100%, rgba(6,93,176,1) 100%, rgba(0,212,255,1) 100%);
+
+}
+input{
+    background-color: transparent !important;
+    color: #fff;
+}
+input:focus{
+    color: #fff !important;
+}
+i{
+    color: #fff;
+    margin: 30px 10px 10px 55px;
+    letter-spacing: 10px;
+    font-size: 25px;
+    justify-content: center;
+    display: flex;
+    cursor: pointer;
+}
